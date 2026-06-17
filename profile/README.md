@@ -5,9 +5,28 @@
 <h2>Azhima Works</h2>
 <p>A Freedom-based Creative Community</p>
 
+<a href="https://x.com/az_himaworks">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/fff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x">
+  <img alt="GitHub Logo" src="https://cdn.simpleicons.org/x" width="20" height="20">
+</picture>
+</a>
 
-<a><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/whatsapp.svg" width="20" height="20" style="filter: invert(100%); padding: 5px;" /></a>
-<a><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/x.svg" width="20" height="20" style="filter: invert(100%); padding: 5px;" /></a>
-<a><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/discord.svg" width="20" height="20" style="filter: invert(100%); padding: 5px;" /></a>
+<a href="https://discord.gg/kFrnSxPJJY">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/fff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord">
+  <img alt="GitHub Logo" src="https://cdn.simpleicons.org/discord" width="20" height="20">
+</picture>
+</a>
+
+<a href="https://chat.whatsapp.com/EcQXbC5EqvGAJQv88ToHfe">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/whatsapp/fff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/whatsapp">
+  <img alt="GitHub Logo" src="https://cdn.simpleicons.org/whatsapp" width="20" height="20">
+</picture>
+</a>
 
 </div>
